@@ -1,4 +1,4 @@
-# NexaCore IT Helpdesk Lab
+# IT Helpdesk Lab
 
 ![osTicket](https://img.shields.io/badge/osTicket-v1.18-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
